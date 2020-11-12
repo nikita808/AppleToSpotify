@@ -1,5 +1,6 @@
 from libpytunes import Library
 
+
 class Song:
     def __init__(self, artist, name):
         self.Artist = artist
